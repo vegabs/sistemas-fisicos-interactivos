@@ -1,0 +1,13 @@
+﻿  unidad2.cpp
+D:\Documentos\GitHub\sistemas-fisicos-interactivos\unidad2\unidad2\unidad2.cpp(1,1): error C2873: 'System': el símbolo no se puede utilizar en una declaración using
+D:\Documentos\GitHub\sistemas-fisicos-interactivos\unidad2\unidad2\unidad2.cpp(4,1): error C3381: 'Eye': los especificadores de acceso al ensamblado solamente están disponibles en el código compilado con la opción /clr
+D:\Documentos\GitHub\sistemas-fisicos-interactivos\unidad2\unidad2\unidad2.cpp(5,12): error C2146: error de sintaxis: falta ':' delante del identificador 'string'
+D:\Documentos\GitHub\sistemas-fisicos-interactivos\unidad2\unidad2\unidad2.cpp(5,24): error C2238: símbolos (token) inesperados delante de ';'
+D:\Documentos\GitHub\sistemas-fisicos-interactivos\unidad2\unidad2\unidad2.cpp(8,1): error C2059: error de sintaxis: 'public'
+D:\Documentos\GitHub\sistemas-fisicos-interactivos\unidad2\unidad2\unidad2.cpp(8,8): error C2236: token inesperado 'class'. Compruebe si olvidó un ';'
+D:\Documentos\GitHub\sistemas-fisicos-interactivos\unidad2\unidad2\unidad2.cpp(9,1): error C2059: error de sintaxis: '{'
+D:\Documentos\GitHub\sistemas-fisicos-interactivos\unidad2\unidad2\unidad2.cpp(9,1): error C2143: error de sintaxis: falta ';' delante de '{'
+D:\Documentos\GitHub\sistemas-fisicos-interactivos\unidad2\unidad2\unidad2.cpp(9,1): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+D:\Documentos\GitHub\sistemas-fisicos-interactivos\unidad2\unidad2\unidad2.cpp(28,12): error C2062: tipo 'void' inesperado
+D:\Documentos\GitHub\sistemas-fisicos-interactivos\unidad2\unidad2\unidad2.cpp(29,5): error C2334: símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
+D:\Documentos\GitHub\sistemas-fisicos-interactivos\unidad2\unidad2\unidad2.cpp(44,1): fatal error C1004: se encontró un final de archivo no esperado

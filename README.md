@@ -9,6 +9,7 @@ Repositorio del curso Sistemas Físicos Interactivos, UPB.
   - [A tener en cuenta 🚨](#a-tener-en-cuenta-)
   - [Unidad 1](#unidad-1)
     - [Retos](#retos)
+  - [Unidad 2](#unidad-2)
 
 ## TO DO List 😊
 - [x] Avanzar del ejercicio 10 al 20.
@@ -260,3 +261,5 @@ Repositorio del curso Sistemas Físicos Interactivos, UPB.
     }
     ```
     ![Circuito Ejercicio 14](img/reto_14.jpg)
+
+## Unidad 2
