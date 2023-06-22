@@ -1,5 +1,5 @@
 # Sistemas Físicos Interactivos 1
-Repositorio del curso Sistemas Físicos Interactivos, UPB.
+Repositorio del curso Sistemas Físicos Interactivos, UPB. Parte de mi intercambio en la Universidad Pontificia Bolivariana.
 
 ## Tabla de contenidos
 - [Sistemas Físicos Interactivos 1](#sistemas-físicos-interactivos-1)
